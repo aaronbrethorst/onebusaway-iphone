@@ -1,4 +1,5 @@
 # OneBusAway for iPhone [![Build Status](https://img.shields.io/travis/OneBusAway/onebusaway-iphone.svg)](https://travis-ci.org/OneBusAway/onebusaway-iphone) [![codebeat badge](https://codebeat.co/badges/080b2d57-c69b-466e-be49-3b5b7e02c8d8)](https://codebeat.co/projects/github-com-onebusaway-onebusaway-iphone) [![Join the OneBusAway chat on Slack](https://onebusaway.herokuapp.com/badge.svg)](https://onebusaway.herokuapp.com/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faaronbrethorst%2Fonebusaway-iphone.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Faaronbrethorst%2Fonebusaway-iphone?ref=badge_shield)
 
 ## Test latest development release
 
@@ -10,6 +11,9 @@ See our [contributing guidelines](CONTRIBUTING.md) and [roadmap](https://github.
 
 ### Individual Contributor License Agreement (ICLA)
 To ensure that the app source code remains fully open-source under a common license, we require that contributors sign [an electronic ICLA](https://docs.google.com/forms/d/12jV-ByyN186MuPotMvxJtNKtSaGGTnEHm8rXomM2bm4/viewform) before contributions can be merged.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faaronbrethorst%2Fonebusaway-iphone.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faaronbrethorst%2Fonebusaway-iphone?ref=badge_large)
 
 ### Code of Conduct
 
